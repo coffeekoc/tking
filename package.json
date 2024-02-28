@@ -1,0 +1,35 @@
+{
+  "name": "tking",
+  "version": "1.0.0",
+  "description": "it allows to stake",
+  "main": "App.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coffeekoc/staking.git"
+  },
+  "author": "mecoffee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coffeekoc/staking/issues"
+  },
+  "homepage": "https://github.com/coffeekoc/staking#readme",
+  "dependencies": {
+    "ethers": "^6.8.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hot-toast": "^2.4.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@vitejs/plugin-react": "^4.2.0",
+    "eslint": "^8.53.0",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.4",
+    "vite": "^5.0.0"
+  }
+}
