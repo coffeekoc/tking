@@ -1,0 +1,2 @@
+# tking
+it allow staking 
