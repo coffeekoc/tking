@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/coffeekoc/staking.git"
+    "url": "https://github.com/coffeekoc/tking.git"
   },
   "author": "mecoffee",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/coffeekoc/staking/issues"
+    "url": "https://github.com/coffeekoc/tking/issues"
   },
-  "homepage": "https://github.com/coffeekoc/staking#readme",
+  "homepage": "https://github.com/coffeekoc/tking#readme",
   "dependencies": {
     "ethers": "^6.8.1",
     "react": "^18.2.0",
